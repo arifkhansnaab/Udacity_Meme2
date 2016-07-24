@@ -19,8 +19,7 @@ class MemeDetailViewController: UIViewController {
     var bottomText = ""
     var image : UIImage!
     
-    
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
